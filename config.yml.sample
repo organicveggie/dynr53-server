@@ -1,0 +1,4 @@
+zone: HOSTED_ZONE_ID
+access_key: AWS_ACCESS_KEY
+secret_key: AWS_SECRET_KEY
+name: my_host_name
